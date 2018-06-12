@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Danh bạ</string>
+    <string name="thong_bao">Thông báo</string>
+    <string name="dong">Đóng</string>
+    <string name="dong_y">Đồng ý</string>
+    <string name="huy">Huỷ</string>
+</resources>
